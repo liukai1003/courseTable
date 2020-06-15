@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/CourseTable-master.iml" filepath="$PROJECT_DIR$/CourseTable-master.iml" group="CourseTable-master" />
       <module fileurl="file://$PROJECT_DIR$/app/CourseTable-master-app.iml" filepath="$PROJECT_DIR$/app/CourseTable-master-app.iml" group="CourseTable-master/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/courseTable.iml" filepath="$PROJECT_DIR$/.idea/modules/courseTable.iml" group="courseTable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/courseTable-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/courseTable-app.iml" group="courseTable/app" />
     </modules>
   </component>
 </project>
