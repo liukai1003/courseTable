@@ -36,7 +36,7 @@ public class AddCourseActivity extends AppCompatActivity {
                 String end = inputEnd.getText().toString();
 
                 if (courseName.equals("") || day.equals("") || start.equals("") || end.equals("")) {
-                    Toast.makeText(AddCourseActivity.this, "基本课程信息未填写", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(AddCourseActivity.this, "input the message please", Toast.LENGTH_SHORT).show();
                 } else {
                     Course course = new Course(courseName, teacher, classRoom,
                             Integer.valueOf(day), Integer.valueOf(start), Integer.valueOf(end));

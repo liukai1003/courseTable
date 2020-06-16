@@ -41,49 +41,49 @@
                     android:layout_width="110px"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="节/周"/>
+                    android:text="class/week"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周一"/>
+                    android:text="MON"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周二"/>
+                    android:text="TUE"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周三"/>
+                    android:text="WED"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周四"/>
+                    android:text="THU"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周五"/>
+                    android:text="FRI"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周六"/>
+                    android:text="SAT"/>
                 <TextView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="周日"/>
+                    android:text="SUN"/>
             </LinearLayout>
             <!--课程表-->
             <LinearLayout
